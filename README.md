@@ -14,8 +14,6 @@ Platform Engineer at Defense Unicorns and Founder of Hashr. Specializing in AI/M
 - React with TypeScript
 - Tailwind CSS for styling
 - Framer Motion for animations
-- Markdown support with syntax highlighting
-- Dark/Light theme support
 
 ### Backend Skills
 - Node.js with Express
@@ -23,6 +21,7 @@ Platform Engineer at Defense Unicorns and Founder of Hashr. Specializing in AI/M
 - Docker containerization
 - Secure API endpoints
 - TypeScript for type safety
+- and more...
 
 # 🤝 Connect with Me
 
