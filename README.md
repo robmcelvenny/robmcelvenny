@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 welcome to my personal GitHub
 
-<!--
-**robmcelvenny/robmcelvenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Platform Engineer at Defense Unicorns and Founder of Hashr. Specializing in AI/ML systems for financial markets and secure cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Advanced DevOps practices and cloud-native technologies for government projects (Defense Unicorns)
+- 🌱 Learning: Latest developments in AI/ML, AI Agents
+- 💼 Building: Hashr, Inc
+- 🛠 Expertise: Cloud Infrastructure, Security, DevOps, and Machine Learning
+- 📝 Blogging about: Software Development, AI, and Building Great Products
+
+### Frontend Skills
+- React with TypeScript
+- Tailwind CSS for styling
+- Framer Motion for animations
+- Markdown support with syntax highlighting
+- Dark/Light theme support
+
+### Backend Skills
+- Node.js with Express
+- MongoDB for data storage
+- Docker containerization
+- Secure API endpoints
+- TypeScript for type safety
+
+# 🤝 Connect with Me
+
+- [GitHub](https://github.com/robmcelvenny)
+- [LinkedIn](https://linkedin.com/in/robmcelvenny)
+- [Twitter](https://twitter.com/rmcmlxxx)
+
+## 🙏 Acknowledgments
+
+- Defense Unicorns for the opportunity to work on cutting-edge technologies
+- The open-source community for the amazing tools and libraries
+- All contributors and supporters of Hashr
+
+---
+
+⭐️ From [Rob McElvenny](https://github.com/robmcelvenny)
